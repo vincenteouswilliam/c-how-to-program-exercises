@@ -1,0 +1,9 @@
+# General exclusion for files without extension
+*
+!*/
+!*.*
+
+# Specific exclusions
+.vscode/
+playground/
+chapter*/chapter*-*/*.dSYM
