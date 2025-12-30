@@ -7,3 +7,4 @@
 .vscode/
 playground/
 chapter*/chapter*-*/*.dSYM
+chapter*/chapter*-*/*.exe
